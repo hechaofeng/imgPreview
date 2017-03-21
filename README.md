@@ -27,17 +27,17 @@ demo:
     </head>
     <body>
         <div>
-            <img src="./images/im1.jpg" alt="" class="img-view">
+<!--        <img src="./images/im1.jpg" alt="" class="img-view">
             <img src="./images/im2.jpg" alt="" class="img-view">
             <img src="./images/im3.jpg" alt="" class="img-view">
             <img src="./images/img1.jpg" alt="" class="img-view">
             <img src="./images/img2.jpg" alt="" class="img-view">
-            <img src="./images/img3.jpg" alt="" class="img-view">
+            <img src="./images/img3.jpg" alt="" class="img-view"> -->
         </div>
         <div>
-            <img src="./images/img4.jpg" alt="" class="img-view">
+<!--        <img src="./images/img4.jpg" alt="" class="img-view">
             <img src="./images/img5.jpg" alt="" class="img-view">
-            <img src="./images/img6.jpg" alt="" class="img-view">
+            <img src="./images/img6.jpg" alt="" class="img-view"> -->
         </div>
 
     <script src="./imgPreView.js" type="text/javascript" charset="utf-8"></script>
